@@ -1,1 +1,1 @@
-#Deposito pubblico del progetto Libertalia presso libertalia.online (aka LoL)
+# Deposito pubblico del progetto Libertalia presso libertalia.online (aka LoL)
